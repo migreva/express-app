@@ -7,6 +7,9 @@
 * `npm install -g gulp`
 * `npm install`
 
+## Run
+* `node app.js`
+
 ## Gulp tasks
 * `gulp css`
 ** Parse css using [cssnext](https://cssnext.github.io/)
