@@ -1,7 +1,7 @@
-# Boilerplate (Express)[http://expressjs.com/] app
+# Boilerplate [Express](http://expressjs.com/) app
 
 ## Requirements
-* (Node)[https://nodejs.org/]
+* [Node](https://nodejs.org/)
 
 ## Install
 `npm install -g gulp`
@@ -9,6 +9,6 @@
 
 ## Gulp tasks
 *`gulp css`*
-** Parse css using (cssnext)[https://cssnext.github.io/]
+** Parse css using [cssnext](https://cssnext.github.io/)
 *`gulp watch`
 ** Watch css, js files
