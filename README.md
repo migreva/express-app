@@ -4,11 +4,11 @@
 * [Node](https://nodejs.org/)
 
 ## Install
-`npm install -g gulp`
-`npm install`
+* `npm install -g gulp`
+* `npm install`
 
 ## Gulp tasks
-*`gulp css`*
+* `gulp css`
 ** Parse css using [cssnext](https://cssnext.github.io/)
-*`gulp watch`
+* `gulp watch`
 ** Watch css, js files
