@@ -9,9 +9,3 @@
 
 ## Run
 * `node app.js`
-
-## Gulp tasks
-* `gulp css`
-** Parse css using [cssnext](https://cssnext.github.io/)
-* `gulp watch`
-** Watch css, js files
