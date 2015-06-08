@@ -11,7 +11,7 @@
 This app uses [Babel](http://babeljs.io/) to transpile ES6+ JS.
 
 * To compile ./src -> ./dist
-  *`gulp babel`
+ *`gulp babel`
 
 ## Run
 `npm start`
