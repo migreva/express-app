@@ -5,7 +5,7 @@ var config = require('./config');
 var pages = require('./pages/pages');
 
 // Template language
-app.set('views', path.join(__dirname, 'views'));
+app.set('../views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
 // Static file path
