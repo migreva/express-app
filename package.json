@@ -4,7 +4,7 @@
   "description": "Express migreva",
   "main": "app.js",
   "scripts": {
-    "start": "node ./dist/app.js"
+    "start": "node ./dist/server.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
     "babel-runtime": "^5.8.29",
     "babelify": "^6.1.2",
     "browserify": "^10.2.4",
+    "debug": "^2.2.0",
     "express": "^4.12.3",
     "gulp": "^3.8.11",
     "gulp-babel": "^5.1.0",
